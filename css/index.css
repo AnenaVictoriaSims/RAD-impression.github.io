@@ -1,4 +1,9 @@
-
+.bgimg {
+    background-image: url('/images/sunset-over-the-rocky-beach.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
 
 body,h1 {font-family: "Raleway", sans-serif}
 
